@@ -35,11 +35,11 @@ const MobileNav = () => {
               src="/icons/logo.svg"
               width={32}
               height={32}
-              alt="Moon Logo"
+              alt="Saturn Logo"
               className="max-sm:size-10"
             />
             <p className="text-[26px] font-extrabold text-white max-sm:hidden">
-              Moon
+              Saturn
             </p>
           </Link>
 

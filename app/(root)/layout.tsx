@@ -2,8 +2,8 @@ import StreamVideoProvider from "@/providers/StreamClientProvider"
 import { Metadata } from "next";
 import React, { ReactNode } from "react"
 export const metadata: Metadata = {
-  title: "Moon",
-  description: "Moon Meet",
+  title: "Saturn",
+  description: "Saturn Meet",
   icons: {
     icon: '/icons/logo.svg'
   }
