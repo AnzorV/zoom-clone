@@ -10,8 +10,8 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Amoon",
-  description: "Amoon Meet",
+  title: "Moon",
+  description: "Moon Meet",
   icons: {
     icon: '/icons/logo.svg'
   }
@@ -27,7 +27,7 @@ export default function RootLayout({
       <ClerkProvider
         appearance={{
           layout: {
-            logoImageUrl: "/icons/amoon-logo.svg",
+            logoImageUrl: "/icons/moon-logo.svg",
             socialButtonsVariant: 'iconButton',
           },
           variables: {

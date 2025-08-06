@@ -5,8 +5,8 @@ import Sidebar from "@/components/Sidebar"
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Amoon",
-  description: "Amoon Meet",
+  title: "Moon",
+  description: "Moon Meet",
   icons: {
     icon: '/icons/logo.svg'
   }
